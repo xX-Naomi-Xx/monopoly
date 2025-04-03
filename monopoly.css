@@ -38,7 +38,7 @@ li {
 
 li span {
   /*...*/
-
+height: 100%;
 
 }
 
@@ -48,14 +48,14 @@ li:nth-child(1) span {
 
 li:nth-child(2) span {
   transform: rotate(180deg);
-  border-top:10px solid green;
+  border-top:60px solid green;
   border-width: 100%;
   flex: 1;
 }
 
 li:nth-child(3) span {
   transform: rotate(180deg);
-  border-top:10px solid green;
+  border-top:60px solid green;
   border-width: 100%;
   flex: 1;
 }
@@ -63,64 +63,64 @@ li:nth-child(3) span {
 
 li:nth-child(4) span {
   transform: rotate(180deg);
-  border-top:10px solid green;
+  border-top:60px solid green;
   border-width: 100%;
   flex: 1;
 }
 
 
 li:nth-child(12) span {
-  border-top:10px solid rgb(67, 65, 180);
+  border-top:60px solid rgb(67, 65, 180);
   border-width: 100%;
   flex: 12;
 }
 
 li:nth-child(11) span {
-  border-top:10px solid rgb(67, 65, 180);
+  border-top:60px solid rgb(67, 65, 180);
   border-width: 100%;
   flex: 12;
 }
 
 
 li:nth-child(10) span {
-  border-top:10px solid rgb(67, 65, 180);
+  border-top:60px solid rgb(67, 65, 180);
   border-width: 100%;
   flex: 12;
 }
 
 li:nth-child(8) span {
-  border-top:10px solid rgb(255, 124, 17);
+  border-top:60px solid rgb(255, 124, 17);
   border-width: 100%;
   flex: 12;
 }
 
 li:nth-child(7) span {
-  border-top:10px solid rgb(255, 124, 17);
+  border-top:60px solid rgb(255, 124, 17);
   border-width: 100%;
   flex: 12;
 }
 
 
 li:nth-child(6) span {
-  border-top:10px solid rgb(255, 124, 17);
+  border-top:60px solid rgb(255, 124, 17);
   border-width: 100%;
   flex: 12;
 }
 
 li:nth-child(14) span {
-  border-top:10px solid rgb(247, 167, 233);
+  border-top:60px solid rgb(247, 167, 233);
   border-width: 100%;
   flex: 12;
 }
 
 li:nth-child(15) span {
-  border-top:10px solid rgb(247, 167, 233);
+  border-top:60px solid rgb(247, 167, 233);
   border-width: 100%;
   flex: 12;
 }
 
 li:nth-child(16) span {
-  border-top:10px solid rgb(247, 167, 233);
+  border-top:60px solid rgb(247, 167, 233);
   border-width: 100%;
   flex: 12;
 }
@@ -138,15 +138,15 @@ li:nth-child(5) span {
 }
 
 li:nth-child(6) span {
-  transform: rotate(272deg);
+  transform: rotate(270deg);
 }
 
 li:nth-child(7) span {
-  transform: rotate(272deg);
+  transform: rotate(270deg);
 }
 
 li:nth-child(8) span {
-  transform: rotate(272deg);
+  transform: rotate(270deg);
 }
 
 li:nth-child(9) span {
@@ -251,5 +251,5 @@ li:nth-child(16) {
 
 img{
   width: 200px;
-  
+
 }
